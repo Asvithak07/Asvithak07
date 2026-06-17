@@ -33,6 +33,6 @@ B.Tech – Artificial Intelligence & Data Science
 Sri Shakthi Institute of Engineering and Data Science
 CGPA: 8.46
 
-* LinkedIn: [Add Your LinkedIn Link]
+* LinkedIn: https://www.linkedin.com/in/asvithaa-k-95ab18276/
 * GitHub: https://github.com/Asvithak07
 
